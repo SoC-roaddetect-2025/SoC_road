@@ -15,6 +15,9 @@ F113112134 余立凱</p>
 ## 完整流程圖   
 ![Image](https://github.com/user-attachments/assets/4d364a5e-9898-4ff8-9d3d-923f04a5b29c)  
 
+## 架構圖
+![image](https://github.com/user-attachments/assets/ee48e346-5585-492f-8e68-74ce5dfbeee7)
+
 <hr data-start="269" data-end="272">
 <h2 data-start="274" data-end="284">⚙️ 系統功能</h2>
 <ul data-start="286" data-end="425">
@@ -162,6 +165,9 @@ WaterShed | 用於分割影像區域，強化邊界。
 
 <html>
 <body>
+
+AIBOX 驗證影片
+https://www.youtube.com/watch?v=a07NLpRm3pw
 <!--StartFragment--><h2 data-start="66" data-end="93">
 ---
 
